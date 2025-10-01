@@ -1,0 +1,8 @@
+[package]
+name = "meowershell-loader"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+meowershell-interpreter = { path = "../meowershell-interpreter" }
+meowershell-config = { path = "../meowershell-config" }

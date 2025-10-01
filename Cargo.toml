@@ -1,0 +1,7 @@
+[workspace]
+members = [
+    "meowershell-commands",
+    "meowershell-interpreter",
+    "meowershell-loader",
+    "meowershell-config"
+]
